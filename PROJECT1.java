@@ -58,7 +58,7 @@ public class PROJECT1 {
             while (true) {
                 String url="jdbc:mysql://localhost:3306/";
                 String username="root";
-                String password="happy";
+                String password="****";
                 String databasename="Bank";
                 String tablename="Account";
                 Connection c=DriverManager.getConnection(url,username,password);
